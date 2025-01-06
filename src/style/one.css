@@ -1,0 +1,32 @@
+.one{
+    /* background-color: rgb(241, 240, 240); */
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    margin-left: 100px;
+    margin-right: 100px;
+   }
+
+.OS{
+    color: green;
+}
+
+.OS1{
+    width: 600px;
+}
+
+.one button{
+    border-radius: 20px;
+   background-color: rgb(160, 198, 198); 
+   width: 100px;
+   color: black;
+   border: 10px;
+}
+h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}
+

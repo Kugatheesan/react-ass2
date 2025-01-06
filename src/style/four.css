@@ -1,0 +1,28 @@
+.three{
+    display: flex;
+    /* background-color: ghostwhite; */
+    margin-left: 100px;
+    margin-right: 100px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.TO{
+    text-align: left;
+    width: 500px;
+}
+
+.three button{
+    border-radius: 20px;
+    background-color: rgb(165, 196, 196); 
+    width: 100px;
+    color: black;
+    border: 10px;
+ }
+ h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}

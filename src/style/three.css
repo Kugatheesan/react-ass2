@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 600px;
+    margin: 0 auto;
+    
+}
+
+.ku,.ga,.th,.ee,.sa{
+    height: 100px;
+    width: 100px !important;
+    background:rgb(239, 238, 238);
+    padding: 20px;
+    border-radius: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 25px;
+}
+
+.container div{
+    width: 200px; 
+    
+}
+h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}

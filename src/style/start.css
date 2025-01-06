@@ -1,0 +1,22 @@
+.start{
+    display: flex;
+    background-color:rgb(7, 7, 33);
+    color: #ffffff;
+    justify-content: space-between;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.start div{
+    padding-left: 100px;
+    
+    display: flex;
+}
+
+h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}

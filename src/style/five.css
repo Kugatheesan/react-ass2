@@ -1,0 +1,44 @@
+.four{
+/* background-color: rgb(243, 241, 241); */
+height: 600px;
+/* margin-left: 100px; */
+margin-right: 400px;
+text-align: center;
+display: flex;
+ /* justify-content: space-around; */
+
+}
+
+.FO1{
+    padding: 50px;
+    width: 400px;
+    height: 500px;
+    justify-content: space-between;
+    text-align: left;
+    display: flex;
+    margin-left: 200px;
+        
+}
+
+
+
+.vil button{
+    border-radius: 20px;
+   background-color: rgb(154, 240, 240); 
+   width: 100px;
+   color: black;
+   border: 10px;
+}
+
+h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}
+ h2{
+    text-align: center;
+ }
+
+

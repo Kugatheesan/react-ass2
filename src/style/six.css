@@ -1,0 +1,36 @@
+.five{
+    display: flex;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.FO{
+ 
+    padding: 100px;
+    text-align: left;
+}
+
+.FO button{
+    border-radius: 20px;
+   background-color: rgb(154, 240, 240); 
+   width: 100px;
+   color: black;
+   border: 10px;
+}
+
+input{
+    height: 50px;
+    background-color:rgb(234, 231, 231);
+}
+
+textarea{
+    height: 60px;
+    background-color:rgb(234, 231, 231);
+}
+h3{
+    padding-right: 25px;
+     
+}
+.first{
+    width: 90%;
+}

@@ -1,4 +1,4 @@
-import banner11 from './assets/bg.jpg'
+import banner11 from './assets/photo-4.jpg'
 import './style/six.css'
 function Six(){
     return(
@@ -29,7 +29,7 @@ function Six(){
     <button >SEND</button>
     </div>
 
-    <img src={banner11} width="35%"/>
+    <img src={banner11} width="30%" height="90%"/>
 </div>
         </>
     )

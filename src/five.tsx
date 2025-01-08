@@ -7,7 +7,7 @@ function Five(){
 <div className="four">
         
         <h2 >Form Our Blog</h2>  
-        <br/>
+        
 <div className="FO1">
    <div>
 <img src={banner9} width="400*400"/>

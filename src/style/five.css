@@ -16,12 +16,8 @@ display: flex;
     justify-content: space-between;
     text-align: left;
     display: flex;
-    margin-left: 200px;
         
 }
-
-
-
 .vil button{
     border-radius: 20px;
    background-color: rgb(154, 240, 240); 
